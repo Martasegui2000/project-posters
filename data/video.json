@@ -1,0 +1,86 @@
+{"poster":{
+    "films":[
+        {"id":1,
+         "name":"Doctor Strange",
+         "genre":"Action",
+         "director":"Scott Derrickson",
+         "duration":"115min",
+         "cover":"strange.jpg",
+         "price":"25€",
+         "synopsis":"Dr. Stephen Starnge is a doctor who plays with Phyisics and magic.",
+         "cast":[
+            {"character":"Doctor Strange", "name":"Benedict Cumberbatch"},
+            {"character":"Old Lady", "name":"Tilda Swinton"},
+            {"character":"Kari Mordo", "name":"Chiwetel Ejiofor"}
+            ]
+        },
+        {"id":2,
+            "name":"Divine Fury",
+            "genre":"horror",
+            "director":"Jason Kim",
+            "duration":"129min",
+            "cover":"fury.jpg",
+            "price":"30€",
+            "synopsis":"After losing his father, Yong-hu takes his revenge.",
+            "cast":[
+                {"character":"Yong-hu", "name":"Park Seo-joon"},
+                {"character":"Ji-shin", "name":"Woo Do-hwan"},
+                {"character":"Father Choi", "name":"Choi Woo-shik"}
+            ]
+        },
+        {"id":3,
+            "name":"Parasite",
+            "genre":"thriller",
+            "director":"Bong Joon-ho",
+            "duration":"130min",
+            "cover":"parasite.jpg",
+            "price":"30€",
+            "synopsis":"A family becomes a parasite.",
+            "cast":[
+                {"character":"Ki-woo", "name":"Choi Woo-shik"},
+                {"character":"Min", "name":"Park Seo-joon"},
+                {"character":"Ki-jung", "name":"Park So-dam"}
+            ]
+        }
+    ],
+    "series":[
+        {"serie id":1,
+            "name":"Supernatural",
+            "seasons":15,
+            "genre":"horror",
+            "director":"Bong Joon-ho",
+            "cast":[
+                {"character":"Ki-woo", "name":"Choi Woo-shik"},
+                {"character":"Min", "name":"Park Seo-joon"},
+                {"character":"Ki-jung", "name":"Park So-dam"}
+            ],
+            "cover":"supernatural.jpg"
+        },
+        {"serie id":2,
+            "name":"Itaewon Class",
+            "seasons":1,
+            "genre":"thriller",
+            "director":"Bong Joon-ho",
+            "cast":[
+                {"character":"Ki-woo", "name":"Choi Woo-shik"},
+                {"character":"Min", "name":"Park Seo-joon"},
+                {"character":"Ki-jung", "name":"Park So-dam"}
+            ],
+            "cover":"itaewon.jpg"
+        },
+        {"serie id":3,
+            "name":"Hwarang",
+            "seasons":1,
+            "genre":"fantasy",
+            "director":"Bong Joon-ho",
+            "cast":[
+                {"character":"Ki-woo", "name":"Choi Woo-shik"},
+                {"character":"Min", "name":"Park Seo-joon"},
+                {"character":"Ki-jung", "name":"Park So-dam"}
+            ],
+            "cover":"hwarang.jpg"
+        }
+    ]
+}
+
+}
