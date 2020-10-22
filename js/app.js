@@ -15,3 +15,5 @@ function init() {
         saveOrderInStorage();
     });
 }
+
+init();
