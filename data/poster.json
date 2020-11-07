@@ -7,8 +7,8 @@
          "duration":"115min",
          "cover":"strange.jpg",
          "price":"25€",
-         "synopsis":"Dr. Stephen Starnge is a doctor who plays with Phyisics and magic.",
-         "cast":[
+         "sinopsis":"Dr. Stephen Starnge is a doctor who plays with Phyisics and magic.",
+         "stars":[
             {"character":"Doctor Strange", "name":"Benedict Cumberbatch"},
             {"character":"Old Lady", "name":"Tilda Swinton"},
             {"character":"Kari Mordo", "name":"Chiwetel Ejiofor"}
@@ -21,8 +21,8 @@
             "duration":"129min",
             "cover":"fury.jpg",
             "price":"30€",
-            "synopsis":"After losing his father, Yong-hu takes his revenge.",
-            "cast":[
+            "sinopsis":"After losing his father, Yong-hu takes his revenge.",
+            "stars":[
                 {"character":"Yong-hu", "name":"Park Seo-joon"},
                 {"character":"Ji-shin", "name":"Woo Do-hwan"},
                 {"character":"Father Choi", "name":"Choi Woo-shik"}
@@ -35,8 +35,8 @@
             "duration":"130min",
             "cover":"parasite.jpg",
             "price":"30€",
-            "synopsis":"A family becomes a parasite.",
-            "cast":[
+            "sinopsis":"A family becomes a parasite.",
+            "stars":[
                 {"character":"Ki-woo", "name":"Choi Woo-shik"},
                 {"character":"Min", "name":"Park Seo-joon"},
                 {"character":"Ki-jung", "name":"Park So-dam"}
@@ -44,41 +44,44 @@
         }
     ],
     "series":[
-        {"serie id":1,
+        {"serie id":4,
             "name":"Supernatural",
             "seasons":15,
             "genre":"horror",
             "director":"Bong Joon-ho",
-            "cast":[
-                {"character":"Ki-woo", "name":"Choi Woo-shik"},
-                {"character":"Min", "name":"Park Seo-joon"},
-                {"character":"Ki-jung", "name":"Park So-dam"}
-            ],
-            "cover":"supernatural.jpg"
+            "cover":"supernatural.jpg",
+            "sinopsis":"Sam y Dean se ven obligados a cerrar las puertas del Infierno tras haber perido a su madre",
+            "stars":[
+                {"character":"Sam", "name":"Jared Padalecki"},
+                {"character":"Dean", "name":"Jensen Ackles"},
+                {"character":"Ruby", "name":"Genevive Padalecki"}
+            ]   
         },
-        {"serie id":2,
+        {"serie id":5,
             "name":"Itaewon Class",
             "seasons":1,
             "genre":"thriller",
             "director":"Bong Joon-ho",
-            "cast":[
+            "cover":"itaewon.jpg",
+            "sinopsis":"Park decide montar su propio negocio para hacer justicia en nombre de su familia.",
+            "stars":[
                 {"character":"Ki-woo", "name":"Choi Woo-shik"},
-                {"character":"Min", "name":"Park Seo-joon"},
+                {"character":"Park", "name":"Park Seo-joon"},
                 {"character":"Ki-jung", "name":"Park So-dam"}
-            ],
-            "cover":"itaewon.jpg"
+            ]  
         },
-        {"serie id":3,
+        {"serie id":6,
             "name":"Hwarang",
             "seasons":1,
             "genre":"fantasy",
             "director":"Bong Joon-ho",
-            "cast":[
+            "cover":"hwarang.jpg",
+            "sinopsis":"",
+            "stars":[
                 {"character":"Ki-woo", "name":"Choi Woo-shik"},
                 {"character":"Min", "name":"Park Seo-joon"},
                 {"character":"Ki-jung", "name":"Park So-dam"}
-            ],
-            "cover":"hwarang.jpg"
+            ]  
         }
     ]
 }
